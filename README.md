@@ -1,4 +1,5 @@
-Hello, I am Vrushali
+## Hello..👋
+I am Vrushali.
 
 ## :books:Currently learning.....	:bulb: :smile:
 
